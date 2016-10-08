@@ -1,14 +1,18 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-
+Project("{A0DE9CB6-1679-2227-6C77-0E9D92E715FC}") = "hatPick", "Assembly-CSharp.csproj", "{762FAA83-A83F-F112-FA59-A1075C1330EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{762FAA83-A83F-F112-FA59-A1075C1330EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762FAA83-A83F-F112-FA59-A1075C1330EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762FAA83-A83F-F112-FA59-A1075C1330EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762FAA83-A83F-F112-FA59-A1075C1330EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
